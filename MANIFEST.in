@@ -1,0 +1,4 @@
+include README.md
+recursive-include OctoPrint_CustomZhoming/templates *
+recursive-include OctoPrint_CustomZhoming/translations *
+recursive-include OctoPrint_CustomZhoming/static *
